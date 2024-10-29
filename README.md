@@ -1,5 +1,4 @@
 Manual customisation of VM's with stack:
-# VPROFILE-PROJECT
 1. Nginx => WebService
 2. Tomcat => Application Server
 3. RabbitMQ => Broker/Queuing Agent
